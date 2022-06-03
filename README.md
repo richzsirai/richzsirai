@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richzsirai
 - 👀 I’m interested in travel, photography, reading, walking, architecture of historical buildings and all things code.
-- 🌱 I’m currently learning Computer Science with Data Analytics on an MSc here in the UK.
+- 🌱 I’m currently studying Computer Science with Data Analytics on an MSc here in the UK.
 - 💞️ I’m looking to collaborate on anything code based.
 - 📫 You can reach me at richardzsirai13@gmail.com
 
